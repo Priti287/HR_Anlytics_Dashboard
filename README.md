@@ -35,6 +35,9 @@ Attrition by Department: Departments with higher attrition rates were identified
 Tenure and Attrition: Early-tenure employees (less than 2 years) exhibited higher turnover compared to mid- and late-tenure employees.
 
 # Technologies Used
-Power BI: For interactive visualization and analysis.
-Data Source: Simulated data representing employee records and attrition details.
-Data Transformation: Performed using Power Query within Power BI.
+
+**Power BI:** For interactive visualization and analysis.
+
+**Data Source:** Simulated data representing employee records and attrition details.
+
+**Data Transformation:** Performed using Power Query within Power BI.
